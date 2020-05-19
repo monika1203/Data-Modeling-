@@ -1,9 +1,9 @@
 # Data-Modeling-
 ## Mental Health in the Tech Workplace 
 
-Dataset is about the Survey on Mental Health in the Tech Workplace in 2016, which measures attitudes towards mental health and frequency of mental health disorders in the tech workplace.
+Dataset is about the Survey on Mental Health in the Tech Workplace in 2014, which measures attitudes towards mental health and frequency of mental health disorders in the tech workplace.
 
-Link  https://www.kaggle.com/osmi/mental-health-in-tech-2016
+Link  https://www.kaggle.com/osmi/mental-health-in-tech-survey
 
 ### Steps taken to get the insigts of data 
 
