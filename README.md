@@ -10,3 +10,5 @@ Link  https://www.kaggle.com/osmi/mental-health-in-tech-2016
 •	Designed ER model, logical model by normalizing the dataset and converted it to physical database using MS SQL server and created star-schema with fact and dimensions tables for reporting. 
 
 •	Analyzed the data using SQL to extract the meaningful insights for raising awareness and improving conditions for those with mental health disorders in the IT workplace.
+
+Here, only project report is Avaliable.  
